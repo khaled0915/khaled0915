@@ -48,7 +48,7 @@ TechPlusHub
 Introduction
 Welcome to TechPlusHub, your go-to destination for exploring a wide range of tech products from various brands. This platform is designed to provide users with detailed information about different items, helping them make informed decisions.
 
-Features
+### Features
 1. Browse Products
 Explore a vast collection of tech products, ranging from smartphones and laptops to accessories and gadgets. Our user-friendly interface makes it easy to discover items from your favorite brands.
 
@@ -61,17 +61,18 @@ Create your personal account on TechPlusHub to unlock additional features. Save 
 4. Responsive Design
 TechPlusHub is designed to provide a seamless experience across various devices. Whether you're using a desktop, tablet, or smartphone, our website adapts to your screen size for optimal viewing.
 
-Technologies Used
+### Technologies Used
 Frontend: HTML5, CSS3, JavaScript ,React , Tailwind, DaisyUI
 Backend: [firebase,Express,Node]
 Database: [Mongodb]
 Hosting: [Netlify]
 Version Control: Git, GitHub
+<hr/>
 
 ### 2)CampSwift Website
 #### Live Link : https://courageous-liger-a4d6df.netlify.app
 
-Features
+### Features
 1.User Authentication:
 
 Secure user registration and login functionality.
@@ -88,7 +89,7 @@ Organizer can add and delete camp they wanted.
 5.:
 
 Organizer can see all the userInfo and also can see the all registered camp info in their dashboard and perform any action accordingly
-Technologies Used
+### Technologies Used
 Frontend: HTML5, CSS3, JavaScript , Tailwind, DaisyUi ,React
 
 Backend: [firebase,JWT,Express,node]
@@ -99,10 +100,12 @@ Hosting: [Netlify]
 
 Version Control: Git, GitHub
 
+<hr/>
+
 ### 3)EchoMinds website
 #### Live Link : https://ubiquitous-gingersnap-e70ce9.netlify.app
 
-features :
+### Features :
 User-friendly Interface: Our blog website offers an intuitive and easy-to-navigate interface, ensuring a seamless user experience for both readers and authors.
 
 Responsive Design: The website is designed to be responsive, ensuring optimal viewing and interaction across various devices, including desktops, tablets, and smartphones.
@@ -113,12 +116,15 @@ Commenting System: Foster engagement and discussions with our built-in commentin
 
 Search Functionality: Quickly find relevant content with our powerful search functionality. Users can search for specific keywords or topics, making it easy to discover and explore the diverse range of blog posts.
 
-Technologies Used
+### Technologies Used
 Frontend: HTML5, CSS3, JavaScript ,React , Tailwind, DaisyUI
 Backend: [firebase,Express,Node]
 Database: [Mongodb]
 Hosting: [Netlify]
 Version Control: Git, GitHub
+
+<hr/>
+
 
 
 
