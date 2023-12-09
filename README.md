@@ -1,6 +1,9 @@
 ![logo](https://i.ibb.co/FDxy4TH/github-header-image.png)
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<hr/>
+
+<img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
