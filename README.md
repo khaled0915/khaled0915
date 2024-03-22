@@ -1,4 +1,4 @@
-![logo]([https://i.ibb.co/FDxy4TH/github-header-image.png])
+
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <hr/>
