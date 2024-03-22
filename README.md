@@ -1,4 +1,4 @@
-![logo](https://i.ibb.co/FDxy4TH/github-header-image.png)
+![logo]([https://i.ibb.co/FDxy4TH/github-header-image.png](https://i.ibb.co/TbMyFq5/Black-Modern-Personal-Linked-In-Banner.png))
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <hr/>
