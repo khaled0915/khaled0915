@@ -1,6 +1,6 @@
 
 
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<h3 align="center">  </h3>
 <hr/>
 
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
