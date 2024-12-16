@@ -42,7 +42,7 @@
 ## Here are some recent Project of mine 
 
 ### 1)TechPlusHub Website
-####  Live Link : https://rainbow-muffin-645598.netlify.app
+####  Live Link : https://t-for-techplus.netlify.app/
 
 TechPlusHub
 Introduction
