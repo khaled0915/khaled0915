@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🎓 Computer Science Student<br>🌱 I’m currently learning DevOPs Tools
+🎓 Computer Science Student<br>🌱 I’m currently learning DevOPs and cloud
 
 
 ## 🌐 Socials:
