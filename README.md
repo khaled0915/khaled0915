@@ -88,10 +88,3 @@
 
 ---
 
-<div align="center">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=khaled0915&icon=0&color=6)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
-
-</div>
