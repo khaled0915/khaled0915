@@ -2,7 +2,7 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Khaled%20Saifullah%20Chy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineer%20in%20training&descAlignY=55&descSize=18" width="100%"/> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Typing SVG"
+
 
 <!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Building+CI%2FCD+pipelines+that+actually+ship;Docker+%2B+GitHub+Actions+%2B+AWS;4th-year+CSE+%40+AIUB;Open+to+DevOps+%2F+Cloud+roles" alt="Typing SVG" />
